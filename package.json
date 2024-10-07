@@ -1,0 +1,24 @@
+{
+  "name": "biding-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3",
+    "redis": "^4.7.0",
+    "sequelize": "^6.37.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0",
+    "ws": "^8.18.0"
+  }
+}
